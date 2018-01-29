@@ -7,22 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here	 /br
-As a new or regular client of a law firm i want to easy access location and contact information also some	/br
-general information about the attorneys so that i can feel comfortable to set up an appointment and find the office.	/br 
+Include overview here	 
+As a new or regular client of a law firm i want to easy access location and contact information also some	
+general information about the attorneys so that i can feel comfortable to set up an appointment and find the office.	
 ### Features
-Include Features here	 /br
-Location (Google Map link)	/br
-Online Calendar - with set appointment function	/br
-Blog for subscribers	/br
+Include Features here	 
+Location (Google Map link)	
+Online Calendar - with set appointment function	
+Blog for subscribers	
 ### Technologies
-Include Technologies here	/br
-HTML	/br
-CSS	/br
-C#	/br
-SQL	/br
-ASP.NET	/br
+Include Technologies here	
+HTML	
+CSS	
+C#	
+SQL	
+ASP.NET	
 
-### What I'll Have to Learn/br
-Include what you will need to learn here	/br
+### What I'll Have to Learn
+Include what you will need to learn here	
 put everything together well?
