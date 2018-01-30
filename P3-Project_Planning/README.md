@@ -7,9 +7,13 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+<ul>
+	<li>C:\Users\Stefan\source\repos\liftoff-assignments\P3-Project_Planning\Images\CapstoneP1.jpg</li>
+	<li>C:\Users\Stefan\source\repos\liftoff-assignments\P3-Project_Planning\Images\CapstoneP2.jpg</li>
+	<li>C:\Users\Stefan\source\repos\liftoff-assignments\P3-Project_Planning\Images\CapstoneP3.jpg</li>
+</ul>
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/invite/launchcode2018/6d84b7cdbcedece20b6c3bf5dce96f40
